@@ -68,3 +68,4 @@ function Login() {
 }
 
 export default Login;
+// login auth, register and router dom setup
