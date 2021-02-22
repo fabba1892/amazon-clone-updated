@@ -65,3 +65,5 @@ function Header() {
     }
 
     export default Header;
+    // added handleAuth check if user is logged in
+
