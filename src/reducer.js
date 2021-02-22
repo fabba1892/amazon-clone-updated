@@ -54,3 +54,5 @@ export const initialState = {
   };
   
   export default reducer;
+  // created checkout products & remove from basket
+

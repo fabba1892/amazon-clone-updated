@@ -40,3 +40,6 @@ function CheckoutProduct({ id, image, title, price, rating, hideButton }) {
 }
 
 export default CheckoutProduct;
+// created checkout products & remove from basket
+
+
