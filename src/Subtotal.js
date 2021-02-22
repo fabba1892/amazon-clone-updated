@@ -36,3 +36,5 @@ function Subtotal() {
 }
 
 export default Subtotal;
+// updatded basket and checkout with total cost
+

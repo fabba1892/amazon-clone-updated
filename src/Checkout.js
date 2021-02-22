@@ -42,4 +42,6 @@ function Checkout() {
 }
 
 export default Checkout;
+// updatded basket and checkout with total cost
+
 
