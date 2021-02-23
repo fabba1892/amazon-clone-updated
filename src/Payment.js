@@ -160,4 +160,4 @@ function Payment() {
 
 export default Payment;
 // updated payment checkout and subtotal components
-
+// updatd paymnt processing and added stripe & axios

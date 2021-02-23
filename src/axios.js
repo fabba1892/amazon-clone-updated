@@ -5,3 +5,4 @@ const instance = axios.create({
 });
 
 export default instance;
+// updatd paymnt processing and added stripe & axios
