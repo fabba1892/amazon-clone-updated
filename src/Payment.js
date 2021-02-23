@@ -159,3 +159,5 @@ function Payment() {
 }
 
 export default Payment;
+// updated payment checkout and subtotal components
+
